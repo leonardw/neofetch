@@ -1,3 +1,14 @@
+`neofetch` with added support for Synology DSM
+----------------------------------------------
+Modification based on [[PR]](https://github.com/hykilpikonna/hyfetch/commit/2a84f63fd59d7bb6ff29e03afd77df49725b6616) [dylanaraps#1666](https://github.com/dylanaraps/neofetch/pull/1666)
+
+### Miscellaneous improvements
+- Do not show "Update 0" in OS info when there is no update applied
+
+---
+
+
+
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
