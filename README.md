@@ -4,6 +4,7 @@ Modification based on [[PR]](https://github.com/hykilpikonna/hyfetch/commit/2a84
 
 ### Miscellaneous improvements
 - Do not show "Update 0" in OS info when there is no update applied
+- `nomake.sh` installation script for systems without access to `make` utility
 
 ---
 
